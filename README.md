@@ -1,3 +1,3 @@
 # Courses-and-Academic-Projects
 
-Organized repository of various courses finished.
+Organized repository of various courses completed.
